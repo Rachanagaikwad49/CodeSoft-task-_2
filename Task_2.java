@@ -1,3 +1,4 @@
+//Code-soft task 2
 //student Grade Calculator
 import java .util.Scanner;
 public class Task_2 {
